@@ -1,1 +1,1 @@
-Display the content of /etc/passwd and /etc/hosts
+script that displays a confused smiley (Ôo)
